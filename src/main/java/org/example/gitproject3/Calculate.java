@@ -4,6 +4,5 @@ public class Calculate {
     public int sum(int a, int b) {
 
         return a + b+50;
-        return a + b+20;
     }
 }
